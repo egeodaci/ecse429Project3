@@ -1,7 +1,6 @@
 # Test suite for todo manager API Project 3
 
 Name:Ege Odaci
-ID:260722818
 
 ## Environment Setup
 > Important: need python >= 3.6 since f-strings are used
